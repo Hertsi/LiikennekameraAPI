@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+    <meta charset="UTF-8">
+    <title>Oulun Liikennekamerat</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Oulun Liikennekamerat</h1>
+    </header>
+    <main>
+        <h2>Voit valita näytettävän kameran valikosta tai karttapisteestä.</h2>
+        <select id="cameraList">
+            <option>Valitse kamera...</option>
+        </select>
+    </main>
+    <div id="map" style="height: 400px;"></div>
+    <div id="imagesContainer"></div> 
+    <script src="script.js"></script>
+</body>
+</html>
