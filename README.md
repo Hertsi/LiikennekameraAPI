@@ -2,7 +2,7 @@
 
 ### **Toteutettu käyttämällä Oulunliikenteen GraphQL-rajapintaa liikennekameroille ja Leaflet JavaScrip kirjaston avointarajapintaa.**
 **https://wp.oulunliikenne.fi/avoin-data/autoliikenne/graphql-rajapinnat/#kamerakuvat   
- https://leafletjs.com/
+ https://leafletjs.com/  
  Sovelluksen tarkoitus on näyttää reaaliaikaista kuvaa teiden kunnosta ja liikenteen määrästä Oulun alueella.  
  Sovelluksessa on mahdollisuus valita, mistä kamerasta kuvaa näytetään.  
  Kuva päivittyy sovellukseen, kun rajapinnassa on tarjolla uusi kuva ja selainikkuna päivitetään.**
