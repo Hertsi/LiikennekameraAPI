@@ -1,6 +1,6 @@
-#**Liikennekamera API**
+# **Liikennekamera API**
 
-##**Toteutettu käyttämällä Oulunliikenteen GraphQL-rajapintaa liikennekameroille ja Leaflet JavaScrip kirjaston avointarajapintaa.**
+## **Toteutettu käyttämällä Oulunliikenteen GraphQL-rajapintaa liikennekameroille ja Leaflet JavaScrip kirjaston avointarajapintaa.**
 **https://wp.oulunliikenne.fi/avoin-data/autoliikenne/graphql-rajapinnat/#kamerakuvat**
 **https://leafletjs.com/**
 
